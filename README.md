@@ -1,7 +1,8 @@
 # stock-market-project
+Created a SQL database containing over 8 years of historical pricing data for 500+ US equities and ETFs. The database includes 15 custom features for technical analysis and is updated daily after market close powered by PythonAnywhere’s task scheduler. The database serves as the backbone for the automated reporing and backtesting tools.
 
-## The Database
-Created a SQL database containing over 8 years of historical pricing data for 500+ US equities and ETFs. The database includes 15 custom features for technical analysis and is updated daily after market close powered by PythonAnywhere’s task scheduler. The database serves as the backbone for the daily market reports and backtesting tool.
+## Database
+A comprehensive financial database powered by MySQL and Python, housing 8+ years of historical market data for more than 500 US stocks and ETFs. The system leverages PythonAnywhere's scheduling capabilities to refresh the data after each trading day.
 
 ## Automated Daily Reporting
 Developed a robust reporting system that delivers market-wide performance insights and actionable trade ideas in a concise, three-part format. The report is automatically emailed at the end of each trading, following the update of the stock market database.
